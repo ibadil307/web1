@@ -15,7 +15,7 @@ function Home() {
         <div className="container">
           <div className="text-wrapper">
             <h1 className="title">Halo, saya Muhammad Ibadil Mukhlasin</h1>
-            <p className="description">Saya seorang pekerja lepas pengembang web, fotograper, desainer antarmuka pengguna, dan penulis.</p>
+            <p className="description">Saya seorang manusia.</p>
 
             <Link href="/contact"><a className="cta">Kontak Saya</a></Link>
           </div>
