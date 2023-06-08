@@ -26,11 +26,7 @@ function Portfolio() {
 			      		<h4 className="portfolio-name">TALENT SCOUTING ACADEMY</h4>
 			      		<div className="portfolio-category">Pelopor Teknisi Jaringan Membangun Desa di Kantor Desa Kayu Abang</div>
 			      	</div>
-			      	//<div className="portfolio-item">
-			      		//<img src="/.jpg" className="portfolio-image" />
-
-			      		//<h4 className="portfolio-name"> </h4>
-			      		//<div className="portfolio-category"> </div>
+			      	
 			      	</div>
 			      </div>
 		      </div>
