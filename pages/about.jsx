@@ -6,7 +6,7 @@ function About() {
 	return (
 		<>
 			<Head>
-			  <title>About</title>
+			  <title>About Me</title>
 			</Head>
 
 			<Navbar />
@@ -25,8 +25,9 @@ function About() {
 				Saya adalah seorang yang tekun, antusias, dan berorientasi pada detail. Saya senang mempelajari hal-hal baru dan selalu siap untuk menghadapi tantangan baru dalam bidang perangkat keras dan perangkat lunak. Saya percaya bahwa penggabungan pengetahuan teknis dan keterampilan interpersonal dapat membantu saya dalam meraih kesuksesan di dunia profesional. Saya senang berkolaborasi dengan orang-orang yang memiliki minat dan komitmen yang sama dalam bidang ini. 
 				</p>
 				<p className="description"> 
-				Jika Anda memiliki proyek menarik atau peluang kerja yang sesuai dengan keahlian saya, saya sangat berharap dapat berdiskusi lebih lanjut dan berkontribusi pada kemajuan perusahaan atau tim Anda. Terima kasih telah meluangkan waktu untuk membaca "About Me" saya. Jika Anda memiliki pertanyaan atau ingin berhubungan, jangan ragu untuk menghubungi saya melalui informasi kontak yang tercantum di bawah ini. Terima kasih atas perhatian Anda.
+				Jika Anda memiliki proyek menarik atau peluang kerja yang sesuai dengan keahlian saya, saya sangat berharap dapat berdiskusi lebih lanjut dan berkontribusi pada kemajuan perusahaan atau tim Anda. Terima kasih telah meluangkan waktu untuk membaca "About Me" saya. Jika Anda memiliki pertanyaan atau ingin berhubungan, jangan ragu untuk menghubungi saya tekan tombol Kontak Saya. Terima kasih atas perhatian Anda.
 			      </p>
+		<Link href="/contact"><a className="cta">Kontak Saya</a></Link>
 		      </div>
 	      </div>
 			</section>
