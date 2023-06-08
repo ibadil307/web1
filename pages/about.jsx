@@ -6,7 +6,7 @@ function About Me() {
 	return (
 		<>
 			<Head>
-			  <title>About Me</title>
+			  <title>About</title>
 			</Head>
 
 			<Navbar />
