@@ -17,7 +17,7 @@ function Home() {
         <div className="container">
           <div className="text-wrapper">
             <h1 className="title">Halo, saya Muhammad Ibadil Mukhlasin</h1>
-            <p className="description">Saya seorang manusia.</p>
+            <p className="description">Saya adalah seorang mahasiswa aktif di Politeknik Negeri Tanah Laut, tengah menempuh studi di jurusan D4 Teknologi Rekayasa Komputer. Saya memiliki keahlian dalam perangkat keras, seperti instalasi, konfigurasi, dan pemeliharaan perangkat jaringan. Selain itu, saya juga memiliki pengetahuan dalam perangkat lunak, seperti penggunaan aplikasi dan pemecahan masalah pada sistem operasi.</p>
 
             <Link href="/contact"><a className="cta">Kontak Saya</a></Link>
           </div>
