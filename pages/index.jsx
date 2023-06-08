@@ -19,7 +19,7 @@ function Home() {
             <h1 className="title">Halo, saya Muhammad Ibadil Mukhlasin</h1>
             <p className="description">Saya adalah seorang mahasiswa aktif di Politeknik Negeri Tanah Laut, tengah menempuh studi di jurusan D4 Teknologi Rekayasa Komputer.</p>
 
-            <Link href="/contact"><a className="cta">Kontak Saya</a></Link>
+          
           </div>
 
           <div className="image-wrapper">
