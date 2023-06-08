@@ -14,7 +14,7 @@ function Portfolio() {
 			<section className="hero">
 			  <div className="container">
 			    <div className="text-wrapper w-full">
-			      <h1 className="title">Projek Saya</h1>
+			      <h1 className="title">Projek saya</h1>
 			      <p className="description">
 			      	
 			      </p>
