@@ -6,7 +6,7 @@ function Portfolio() {
 	return (
 		<>
 			<Head>
-			  <title>Portfolio</title>
+			  <title>Projek</title>
 			</Head>
 
 			<Navbar />
@@ -14,23 +14,23 @@ function Portfolio() {
 			<section className="hero">
 			  <div className="container">
 			    <div className="text-wrapper w-full">
-			      <h1 className="title">Portfolio</h1>
+			      <h1 className="title">Projek Saya</h1>
 			      <p className="description">
-			      	Incididunt in cillum magna occaecat nisi qui in.
+			      	
 			      </p>
 
 			      <div className="portfolio-wrapper">
 			      	<div className="portfolio-item">
-			      		<img src="/chitchat.png" className="portfolio-image" />
+			      		<img src="/Projek.png" className="portfolio-image" />
 
-			      		<h4 className="portfolio-name">Chat App Exploration</h4>
-			      		<div className="portfolio-category">Mobile Dev</div>
+			      		<h4 className="portfolio-name">TALENT SCOUTING ACADEMY</h4>
+			      		<div className="portfolio-category">Pelopor Teknisi Jaringan Membangun Desa di Kantor Desa Kayu Abang</div>
 			      	</div>
-			      	<div className="portfolio-item">
-			      		<img src="/kajian.jpg" className="portfolio-image" />
+			      	//<div className="portfolio-item">
+			      		//<img src="/.jpg" className="portfolio-image" />
 
-			      		<h4 className="portfolio-name">kajian App</h4>
-			      		<div className="portfolio-category">Mobile Dev</div>
+			      		//<h4 className="portfolio-name"> </h4>
+			      		//<div className="portfolio-category"> </div>
 			      	</div>
 			      </div>
 		      </div>
