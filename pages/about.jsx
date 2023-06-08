@@ -2,7 +2,7 @@ import Link from 'next/link';
 import Navbar from '../components/Navbar';
 import Head from 'next/head'
 
-function About() {
+function About Me() {
 	return (
 		<>
 			<Head>
@@ -14,7 +14,7 @@ function About() {
 			<section className="hero">
 			  <div className="container">
 			    <div className="text-wrapper w-full">
-			      <h1 className="title">About</h1>
+			      <h1 className="title">Tentang Saya</h1>
 			      <p className="description">
 			      	 Halo! Perkenalkan, saya Muhammad Ibadil Mukhlasin. Saya adalah seorang mahasiswa aktif di Politeknik Negeri Tanah Laut, tengah menempuh studi di jurusan D4 Teknologi Rekayasa Komputer. Saya memiliki ketertarikan yang mendalam dalam bidang perangkat keras dan perangkat lunak. Sebagai mahasiswa, saya telah belajar dan memperoleh pemahaman yang kuat tentang instalasi, konfigurasi, dan pemeliharaan perangkat jaringan seperti router, switch, dan access point. 
 				</p> 
