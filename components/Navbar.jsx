@@ -13,7 +13,7 @@ function Navbar({ router }) {
   return (
     <nav className="navbar">
       <div className="container">
-        <Link href="/"><a className="logo">IBADIL.</a></Link>
+        <Link href="/"><a className="logo">TEST.</a></Link>
 
         <ul className="nav-links">
           { navs.map(nav => (
